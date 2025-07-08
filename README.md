@@ -27,7 +27,7 @@ All prompts are:
 | Topic                      | Language     | Status      | Link                        |
 |---------------------------|--------------|-------------|-----------------------------|
 | LinkedIn Static Design    | 🇮🇹 / 🇬🇧     | ✅ Available | [View Pack](./linkedin-design/) |
-| Copywriting Email Hooks   | 🇮🇹 / 🇬🇧     | ⏳ Coming Soon | – |
+| Copywriting Email Hooks   | 🇮🇹 / 🇬🇧     | ⏳ Coming Soon | [View Pack](./email-copywriting/) |
 | Midjourney Abstract Styles | 🌐           | ⏳ Coming Soon | – |
 
 👉 New prompt packs are added regularly. Star 🌟 the repo to stay updated!
