@@ -27,7 +27,10 @@ All prompts are:
 | Topic                      | Language     | Status      | Link                        |
 |---------------------------|--------------|-------------|-----------------------------|
 | LinkedIn Static Design    | 🇮🇹 / 🇬🇧     | ✅ Available | [View Pack](./linkedin-design/) |
-| Copywriting Email Hooks   | 🇮🇹 / 🇬🇧     | ⏳ Coming Soon | [View Pack](./email-copywriting/) |
+| Copywriting Email Hooks   | 🇮🇹 / 🇬🇧     | ✅ Available | [View Pack](./email-copywriting/) |
+| Italian coffee graphics   | 🇮🇹 / 🇬🇧     | ✅ Available | [View Pack](./italian-coffee/) |
+| D&D epic stories for DMs   | 🇮🇹 / 🇬🇧     | ✅ Available | [View Pack](./dnd-epic-stories/) |
+| Fairytales covers for children   | 🇮🇹 / 🇬🇧     | ✅ Available | [View Pack](./fairy-tales-covers/) |
 | Midjourney Abstract Styles | 🌐           | ⏳ Coming Soon | – |
 
 👉 New prompt packs are added regularly. Star 🌟 the repo to stay updated!
