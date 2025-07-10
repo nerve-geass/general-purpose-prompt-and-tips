@@ -31,6 +31,7 @@ All prompts are:
 | Italian coffee graphics   | 🇮🇹 / 🇬🇧     | ✅ Available | [View Pack](./italian-coffee/) |
 | D&D epic stories for DMs   | 🇮🇹 / 🇬🇧     | ✅ Available | [View Pack](./dnd-epic-stories/) |
 | Fairytales covers for children   | 🇮🇹 / 🇬🇧     | ✅ Available | [View Pack](./fairy-tales-covers/) |
+| Code explainability   | 🇮🇹 / 🇬🇧     | ✅ Available | [View Pack](./code-explainability/) |
 | Midjourney Abstract Styles | 🌐           | ⏳ Coming Soon | – |
 
 👉 New prompt packs are added regularly. Star 🌟 the repo to stay updated!
